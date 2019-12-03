@@ -8,9 +8,9 @@ appinventor/components/src/fvarrui/appinventor/components
 
 ## Extensiones disponibles
 
-| Componente | Visible | Descripción                                                  |
-| ---------- | ------- | ------------------------------------------------------------ |
-| Sleepyhead | No      | Añade un retardo (en milisegundos) en la ejecución de bloques. |
+| Componente                                                   | Visible | Descripción                                                  |
+| ------------------------------------------------------------ | ------- | ------------------------------------------------------------ |
+| [Sleepyhead](https://github.com/fvarrui/AppInventor-Extensions/blob/master/appinventor/components/src/fvarrui/appinventor/components/Sleepyhead.java) | No      | Añade un retardo (en milisegundos) en la ejecución de bloques. |
 
 ## Compilar las extensiones
 
